@@ -1,4 +1,4 @@
-function getComputerChoice {
+function getComputerChoice() {
     let num = Math.floor(Math.random()*3);
     switch(num) {
         case 0:
